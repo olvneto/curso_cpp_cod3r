@@ -21,7 +21,5 @@ int main() {
     cout << "Bad student? " << badStudent << endl;
     cout << "Will the loan be cancelled? " << loanCancelled << endl;
 
-
-
     return 0;
 }
